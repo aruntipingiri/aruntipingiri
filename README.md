@@ -17,7 +17,7 @@ My research focuses on **self-supervised representation learning**, **vision fou
 ### Selected Publications
 * **Self-Supervised Vision Embeddings Reveal Phenotype-Taxonomy Structure in Digitized Butterfly Collections**  
   *European Conference on Computer Vision (ECCV 2026) – Computer Vision for Natural Heritage (CVNH) Workshop*  
-  **Oral Presentation** | [Paper / Springer](https://eccv.ecva.net/) | [Code / Repo](https://github.com/aruntipingiri)  
+  **Oral Presentation** | [Paper / Springer]([https://eccv.ecva.net/](https://openreview.net/forum?id=zYo3UYmHP7)) | [Code / Repo]([https://github.com/aruntipingiri](https://github.com/aruntipingiri/butterfly-phenotype-taxonomy-clustering.git))  
   *Built taxonomy-free clustering benchmarks across 10 focal genera (741 species, 11.8k images from 189k+ specimens) using DINOv3 ViT-L/16, manifold projections, and HDBSCAN.*
 
 ---
