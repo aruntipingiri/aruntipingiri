@@ -1,7 +1,7 @@
 # Arun Tipingiri
 
 **Enterprise Solution Architect & Machine Learning Researcher**  
-Atlanta, GA • [LinkedIn](https://www.linkedin.com/in/aruntipingiri) • [Google Scholar](https://scholar.google.com) • [Website](https://aruntipingiri.github.io)
+Atlanta, GA • [LinkedIn](https://www.linkedin.com/in/aruntipingiri)  • [Website](https://aruntipingiri.github.io)
 
 ---
 
